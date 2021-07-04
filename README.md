@@ -10,5 +10,5 @@ This is fastapi sample skeleton app
 
 1. Add JWT Authentication to user
 2. Add Emails support
- 
+.idea 
 
